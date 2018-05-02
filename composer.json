@@ -1,0 +1,14 @@
+{
+    "name": "btc-relax/easy-pay-api",
+    "description": "Description of project EasyPayApi.",
+    "authors": [
+        {
+            "name": "god",
+            "email": "god@btcrelax.xyz"
+        }
+    ],
+    "require": {
+		"guzzlehttp/guzzle": "~6.0"
+    }
+ 
+}
